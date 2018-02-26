@@ -235,6 +235,8 @@ Once authorized, Betoken could be subject to a certain number of organisational 
 
 On the question of fraudulent activities and AML (Anti-Money Laundering), a robust governance would ensure that only trustworthy participants are accepted. In addition, the Ethereum network would allow for more transparency on transaction history and beneficial owners, which would enhance KYC (Know Your Customer) and help trace and prevent fraud.
 
+A user’s real-life identity will also be a factor. The early stages of the project could rely on centralised KYC, but Betoken aims to fully support decentralized solutions, like uPort, in the long term.
+
 #### 1.4.5 Tax burden
 
 Some challenges could also arise from the transnational nature of the blockchain. For example, a tax may apply on a given transaction depending on its place of execution. The law applicable to blockchain networks should be specified in advance to avoid conflicts.
