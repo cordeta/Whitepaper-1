@@ -1,4 +1,6 @@
+[Staging File]
 # Betoken Whitepaper Draft
+
 
 A meritocratic hedge fund built on the Ethereum blockchain.
 
